@@ -1,5 +1,14 @@
 # Message-Board
 
+Description: 
+
+A messaging board that allows users to post messages to a message board. The messages are displayed on the message board from most recent to less recent. 
+
+Overview: 
+
+The application is written in swift and uses XCode and SwiftUI. The application utilizes JSON encoder and  decoder as well as the UserDefaults to store the messages even after the application has closed. This application consists of five files. Message_Board which is the main method where it starts the application. Message which defines what a message is. Messages where it creates a list of the messages and stores them. messageView which is constructs how the messages look on screen. AddMessages which is the page where the user can add messages to the board. 
+
+
 To Start Application: 
 
 Application used: Xcode, Swift UI 
@@ -25,6 +34,7 @@ After the plus icon is pressed, a new page will pop up where you can enter the m
 Once you fill out all the fields, the message will appear on the message board 
 
 <img width="379" alt="Screenshot 2023-01-14 at 00 57 38" src="https://user-images.githubusercontent.com/69254490/212458697-5abf089d-942f-4ebd-8bad-f78747f76baf.png">
+
 
 <img width="357" alt="Screenshot 2023-01-14 at 00 57 44" src="https://user-images.githubusercontent.com/69254490/212458700-c0a9e7e4-3111-4828-97ae-29b0f58e15e7.png">
 
