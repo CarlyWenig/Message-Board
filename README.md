@@ -45,6 +45,7 @@ The word count is also considered as it will prevent you from typing any more ch
 <img width="365" alt="Screenshot 2023-01-14 at 01 01 02" src="https://user-images.githubusercontent.com/69254490/212458748-6ac9560a-2ad1-4a63-a1c9-25a65338c408.png">
 
 If you add another message, it will go first on the board since it is the most recent and this is done by comparing the timestamps 
+
 <img width="369" alt="Screenshot 2023-01-14 at 01 00 43" src="https://user-images.githubusercontent.com/69254490/212458758-e1e7d687-778c-4fd5-b193-564a72eea8fb.png">
 
 An extra feature is that it will censor out bad words, for this application, a small list of bad words are provided. If you type in a bad word, an alert will show up and will not post the message 
