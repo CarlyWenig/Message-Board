@@ -12,6 +12,7 @@ Application used: Xcode, Swift UI
 Application Explained: 
 
 In the homescreen, the message board starts off as a blank board. 
+
 <img width="364" alt="Screenshot 2023-01-14 at 00 57 16" src="https://user-images.githubusercontent.com/69254490/212458671-421981f2-4f5d-4db8-bc2a-c9453ceb41d0.png">
 
 
