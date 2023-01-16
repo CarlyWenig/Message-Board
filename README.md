@@ -6,7 +6,7 @@ A messaging board that allows users to post messages to a message board. The mes
 
 Overview: 
 
-The application is written in swift and uses XCode and SwiftUI. The application utilizes JSON encoder and  decoder as well as the UserDefaults to store the messages even after the application has closed. This application consists of five files. Message_Board which is the main method where it starts the application. Message which defines what a message is. Messages where it creates a list of the messages and stores them. messageView which is constructs how the messages look on screen. AddMessages which is the page where the user can add messages to the board. 
+The application is written in swift and uses XCode and SwiftUI. The application utilizes JSON encoder/decoder, Core Data, and the UserDefaults to store the messages even after the application has closed essentially saving the data. This application consists of five files. Message_Board which is the main method where it starts the application. Message which defines what a message is. Messages where it creates a list of the messages and stores them. messageView which is constructs how the messages look on screen. AddMessages which is the page where the user can add messages to the board. 
 
 
 To Start Application: 
