@@ -26,7 +26,7 @@ In the homescreen, the message board starts off as a blank board.
 
 
 To add a new message, click on the plus icon on the top right corner. 
-After the plus icon is pressed, a new page will pop up where you can enter the message as well as your username handle 
+After the plus icon is pressed, a new page will pop up where you can enter the message as well as your username handle(optional) 
 
 <img width="372" alt="Screenshot 2023-01-14 at 00 57 23" src="https://user-images.githubusercontent.com/69254490/212458687-cf29bdfe-ed83-4a0d-ab93-57be8d44bd0a.png">
 
